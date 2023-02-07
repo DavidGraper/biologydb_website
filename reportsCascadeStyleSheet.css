@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 14, 2022, 11:57:44 AM
+    Author     : dgraper
+*/
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: none;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+th {
+	background-color: Purple;
+	color: white;
+	text-align: left;
+}
+td {
+	text-align: left;
+}
+.otherrow {
+	background-color: Thistle;
+}
+
